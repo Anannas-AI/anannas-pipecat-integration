@@ -166,22 +166,6 @@ This integration extends `OpenAILLMService` and is compatible with all Pipecat f
 - ✅ Multi-modal support
 - ✅ Interruption handling
 
-## Development
-
-### Setting Up for Development
-
-```bash
-git clone https://github.com/upsurgeio/anannas-pipecat-integration.git
-cd anannas-pipecat-integration
-pip install -e ".[dev]"
-```
-
-### Running Tests
-
-```bash
-pytest tests/
-```
-
 ## Links
 
 - **Anannas AI Homepage**: https://anannas.ai
