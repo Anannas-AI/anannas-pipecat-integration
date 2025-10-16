@@ -160,12 +160,6 @@ Learn more: https://docs.anannas.ai/UseCases/BYOK
 
 This integration extends `OpenAILLMService` and is compatible with all Pipecat features:
 
-- ✅ Streaming responses
-- ✅ Function calling / tool use
-- ✅ Context management
-- ✅ Multi-modal support
-- ✅ Interruption handling
-
 ## Links
 
 - **Anannas AI Homepage**: https://anannas.ai
