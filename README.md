@@ -11,7 +11,7 @@ Anannas AI is a unified inference gateway that provides access to 500+ models fr
 - **Smart Routing**: Automatic provider health monitoring and failover with ~0.48ms overhead
 - **Cost Optimization**: 5% markup with transparent pricing
 - **Enterprise Ready**: BYOK (Bring Your Own Key) support for secure deployments
-- **Production Proven**: Powering deployments with 100k+ requests and 100M+ tokens processed
+- **Production Proven**: Powering deployments with 100k+ requests and 1B+ tokens processed
 
 ## Installation
 
