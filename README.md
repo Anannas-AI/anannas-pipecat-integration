@@ -55,11 +55,11 @@ pipeline = Pipeline([
 
 Anannas AI provides access to models from multiple providers:
 
-- **OpenAI**: gpt-4o, gpt-4-turbo, gpt-3.5-turbo, and more
-- **Anthropic**: claude-3-5-sonnet-20241022, claude-3-opus, claude-3-sonnet
-- **Mistral**: mistral-large, mistral-medium, mistral-small
-- **Google**: gemini-pro, gemini-1.5-pro
-- **DeepSeek**: deepseek-chat, deepseek-coder
+- **OpenAI**: gpt-5-codex, gpt-5-pro, gpt-5-chat, and more
+- **Anthropic**: claude-opus-4.1, claude-opus-4, claude-sonnet-4.5
+- **Mistral**: magistral-medium-2506, codestral-2508, devstral-medium
+- **Google**: gemini-2.5-flash-image-preview, gemma-2-27b-it
+- **DeepSeek**: deepseek-chat, deepseek-r1
 - And 500+ more models...
 
 ## Usage with Pipecat Pipeline
