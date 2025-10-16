@@ -158,8 +158,6 @@ Learn more: https://docs.anannas.ai/UseCases/BYOK
 
 **Tested with Pipecat:** v0.0.86+
 
-This integration extends `OpenAILLMService` and is compatible with all Pipecat features:
-
 ## Links
 
 - **Anannas AI Homepage**: https://anannas.ai
