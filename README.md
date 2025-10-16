@@ -175,7 +175,7 @@ Learn more: https://docs.anannas.ai/UseCases/BYOK
 
 ## Maintainer
 
-This integration is maintained by the Anannas AI team. We're committed to keeping this integration up-to-date with the latest Pipecat releases and providing ongoing support.
+This integration is maintained by the Anannas AI team.
 
 ## License
 
